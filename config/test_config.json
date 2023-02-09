@@ -1,0 +1,14 @@
+{
+    "block_size": 64,
+    "path_to_datanodes": "/home/$USER/Desktop/DATANODE/",
+    "path_to_namenodes": "/home/$USER/Desktop/NAMENODE/",
+    "replication_factor": 3,
+    "num_datanodes": 20	,
+    "datanode_size": 100,
+    "sync_period": 180,
+    "datanode_log_path": "/home/$USER/Desktop/DATANODE/DATANODE_LOGS/",
+    "namenode_log_path": "/home/$USER/Desktop/NAMENODE/NAMENODE_LOG.txt",
+    "namenode_checkpoints": "/home/$USER/Desktop/NAMENODE/CHECKPOINTS/",
+    "fs_path": "/home/$USER/Desktop/DFS/FILE_SYSTEM/",
+    "dfs_setup_config": "/home/$USER/Desktop/DFS/setup.json"
+}
